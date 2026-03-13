@@ -18,7 +18,7 @@ AstrBot 意见反馈插件，将用户反馈收集到 [Teable](https://teable.io
 
 ## 安装
 
-在 AstrBot 管理面板的插件市场中搜索 `astrbot_plugin_feedback` 安装，或手动克隆到插件目录：
+手动克隆到插件目录：
 
 ```bash
 cd ~/AstrBot/data/plugins

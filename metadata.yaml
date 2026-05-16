@@ -2,5 +2,5 @@ name: feedback_plugin
 desc: "意见反馈插件 - 将用户意见转发到Teable并支持管理员驳回/通过"
 display_name: 意见反馈
 version: v3.2.0
-author: Nayuki
-repo: ""
+author: Nayukiiii
+repo: https://github.com/Nayukiiii/astrbot_plugin_feedback
